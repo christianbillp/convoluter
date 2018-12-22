@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <csimLog>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:18:57.871+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:18:33.703+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:14:08.960+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:12:01.509+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:11:53.749+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:11:49.362+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:11:38.399+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:10:41.601+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:10:04.806+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:07:10.445+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:05:41.699+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:04:47.777+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T01:00:28.791+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:58:32.992+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:55:13.306+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:54:11.265+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:53:30.652+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:53:14.799+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:52:51.979+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:52:39.483+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:44:45.622+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:41:47.336+0100"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="convoluter" solutionName="solution1" date="2018-12-22T00:39:14.709+0100"/>
+      </csimLog>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

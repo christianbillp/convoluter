@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="convoluter.cpp" path="C:\Xilinx_projects\HLS_projects\convoluter\convoluter\convoluter.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="convoluter_test.cpp" path="C:\Xilinx_projects\HLS_projects\convoluter\convoluter\convoluter_test.cpp"/>
+    <originFiles name="mnist_example.csv" path="C:\Users\chris\Projects\zynq_afgangsprojekt\python\mnist_example.csv"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
